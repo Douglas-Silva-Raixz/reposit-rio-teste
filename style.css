@@ -8,7 +8,7 @@
 
 
 .titulo{
-    color:aliceblue;
+    text-emphasis-color: aliceblue;
     font-family: monospace;
     font-size: 50px;
     font-weight: 300;
