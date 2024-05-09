@@ -1,0 +1,13 @@
+.header{
+    background-color: blue;
+    align-items: center;
+    text-align: center;
+}
+
+
+.titulo{
+    color:aliceblue
+    font-family:monospace;
+    font-size: larger;
+    font-weight: 300;
+}
