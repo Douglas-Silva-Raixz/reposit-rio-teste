@@ -1,4 +1,4 @@
-.header{
+.topo{
     background-color: blue;
     align-items: center;
     text-align: center;
@@ -6,8 +6,8 @@
 
 }
 .titulo{
-    color: aliceblue;
-    font-family: monospace;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     font-weight: 300;
 }
