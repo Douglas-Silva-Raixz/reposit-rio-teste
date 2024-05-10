@@ -4,7 +4,6 @@
     text-align: center;
     height: 70px;
     padding-top: 0px;
-
 }
 .titulo{
     color: white;
@@ -12,16 +11,19 @@
     font-size: 50px;
     font-weight: 300;
 }
+.inicio{
+    text-align: center;
+    align-items: center;
+}
 .subtitulo{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
-    font-weight: 200;
-
+    font-weight: 300;
 }
 .texto{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    font-weight: 100;
+    font-size: 16px;
+    font-weight: 200;
 }
