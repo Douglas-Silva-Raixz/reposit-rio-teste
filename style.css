@@ -71,6 +71,9 @@
 }
 .rodape{
     background-color: blue;
+    text-align: center;
+    align-items: center;
+    height: 50px;
 }
 .fim{
     --var:var(--cor_letra);
