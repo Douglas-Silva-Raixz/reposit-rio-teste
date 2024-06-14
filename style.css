@@ -72,6 +72,12 @@
 .rodape{
     background-color: blue;
 }
+.fim{
+    --var:var(--cor_letra);
+    --var:var(--fonte_2);
+    font-size:30px ;
+    font-weight: 300;
+}
 
 
 
