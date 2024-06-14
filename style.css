@@ -28,14 +28,14 @@
     font-weight: 300;
 }
 .texto{
-    color: black;
-   --var:var(--fonte_1);
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
 .texto2{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
@@ -44,8 +44,8 @@
     align-items: center;
 }
 .texto_escola{
-    color:black;
-    font-family: Arial, Helvetica, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
@@ -54,8 +54,8 @@
     align-items: center;
 }
 .texto_diversao{
-    color:black;
-    font-family: Arial, Helvetica, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
@@ -64,8 +64,8 @@
     align-items: center;
 }
 .texto_outros{
-    color:black;
-    font-family: Arial, Helvetica, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
