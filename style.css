@@ -76,7 +76,7 @@
     height: 50px;
 }
 .fim{
-    --var:var(--cor_letra);
+    color: white;
     --var:var(--fonte_2);
     font-size:30px ;
     font-weight: 300;
