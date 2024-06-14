@@ -1,3 +1,8 @@
+:root{
+    --cor_letra: black;
+    --fonte_1: Arial, Helvetica, sans-serif;
+    --fonte_2: Verdana, Geneva, Tahoma, sans-serif;
+}
 .topo{
     background-color: blue;
     align-items: center;
@@ -7,7 +12,8 @@
 }
 .titulo{
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_2);
     font-size: 60px;
     font-weight: 400;
 }
@@ -16,14 +22,14 @@
     align-items: center;
 }
 .subtitulo{
-    color: black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    --var:var(--cor_letra);
+    --var:var(--fonte_2);
     font-size: 30px;
     font-weight: 300;
 }
 .texto{
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+   --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
 }
