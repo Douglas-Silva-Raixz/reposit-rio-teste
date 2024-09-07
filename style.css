@@ -1,7 +1,7 @@
 :root{
     --cor_letra: black;
-    --fonte_1: Arial, Helvetica, sans-serif;
-    --fonte_2: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte_1: Arial;
+    --fonte_2: Verdana;
     --cor_fundo: rgb(227, 255, 254);
     --azul_escuro: blue;
 }
@@ -17,6 +17,7 @@
     --var:var(--fonte_2);
     font-size: 60px;
     font-weight: 400;
+    text-decoration: black;
 }
 .inicio{
     text-align: center;
