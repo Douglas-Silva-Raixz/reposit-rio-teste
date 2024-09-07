@@ -17,7 +17,7 @@
     --var:var(--fonte_2);
     font-size: 60px;
     font-weight: 400;
-    text-decoration: wavy;
+    text-decoration: overline;
 }
 .inicio{
     text-align: center;
