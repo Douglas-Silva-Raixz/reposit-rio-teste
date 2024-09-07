@@ -34,12 +34,6 @@
     font-size: 20px;
     font-weight: 200;
 }
-.texto2{
-    --var:var(--cor_letra);
-    --var:var(--fonte_1);
-    font-size: 20px;
-    font-weight: 200;
-}
 .links_escola{
     text-align: center;
     align-items: center;
