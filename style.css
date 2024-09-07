@@ -3,9 +3,10 @@
     --fonte_1: Arial, Helvetica, sans-serif;
     --fonte_2: Verdana, Geneva, Tahoma, sans-serif;
     --cor_fundo: rgb(227, 255, 254);
+    --azul_escuro: blue;
 }
 .topo{
-    background-color: blue;
+    background-color: var(--azul_escuro);
     align-items: center;
     text-align: center;
     height: 70px;
@@ -21,7 +22,6 @@
 .inicio{
     text-align: center;
     align-items: center;
-    ba
 }
 .subtitulo{
     --var:var(--cor_letra);
@@ -49,7 +49,7 @@
     --var:var(--cor_letra);
     --var:var(--fonte_1);
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
 }
 .links_diversao{
     text-align: center;
@@ -59,7 +59,7 @@
     --var:var(--cor_letra);
     --var:var(--fonte_1);
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
 }
 .links_outros_sites{
     text-align: center;
@@ -69,14 +69,10 @@
     --var:var(--cor_letra);
     --var:var(--fonte_1);
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
 }
-.principal{
-    background-color: var(--cor_fundo);
-}
-
 .rodape{
-    background-color: blue;
+    background-color: var(--azul_escuro);
     text-align: center;
     align-items: center;
     height: 50px;
