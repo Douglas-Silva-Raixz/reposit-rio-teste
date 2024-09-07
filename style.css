@@ -2,6 +2,7 @@
     --cor_letra: black;
     --fonte_1: Arial, Helvetica, sans-serif;
     --fonte_2: Verdana, Geneva, Tahoma, sans-serif;
+    --cor_fundo: rgb(227, 255, 254);
 }
 .topo{
     background-color: blue;
@@ -20,6 +21,7 @@
 .inicio{
     text-align: center;
     align-items: center;
+    ba
 }
 .subtitulo{
     --var:var(--cor_letra);
@@ -70,7 +72,7 @@
     font-weight: 200;
 }
 .principal{
-    background-color: aqua;
+    background-color: var(--cor_fundo);
 }
 
 .rodape{
@@ -78,6 +80,9 @@
     text-align: center;
     align-items: center;
     height: 50px;
+}
+.tudo{
+    background-color: var(--cor_fundo);
 }
 .fim{
     color: white;
