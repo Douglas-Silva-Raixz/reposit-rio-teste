@@ -18,21 +18,19 @@
     font-size: 60px;
     font-weight: 400;
 }
-.inicio{
-    text-align: center;
-    align-items: center;
-}
 .pergunta{
     --var:var(--cor_letra);
     --var:var(--fonte_2);
     font-size: 30px;
     font-weight: 300;
 }
-.texto{
+.inicio{
     --var:var(--cor_letra);
     --var:var(--fonte_1);
     font-size: 20px;
     font-weight: 200;
+    text-align: center;
+    align-items: center;
 }
 .links_escola{
     text-align: center;
