@@ -62,6 +62,16 @@
     font-size: 25px;
     font-weight: 400;
 }
+.links_clube{
+    text-align: center;
+    align-items: center;
+}
+.texto_clube{
+    --var:var(--cor_letra);
+    --var:var(--fonte_1);
+    font-size: 25px;
+    font-weight: 400;
+}
 .rodape{
     background-color: var(--azul_escuro);
     text-align: center;
