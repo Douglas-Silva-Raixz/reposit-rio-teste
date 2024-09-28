@@ -33,7 +33,6 @@
     align-items: center;
 }
 .links_escola{
-    display: table;
     text-align: center;
     align-items: center;
 }
@@ -44,7 +43,6 @@
     font-weight: 400;
 }
 .links_diversao{
-    display: table;
     text-align: center;
     align-items: center;
 }
@@ -55,7 +53,6 @@
     font-weight: 400;
 }
 .links_outros_sites{
-    display: table;
     text-align: center;
     align-items: center;
 }
@@ -66,7 +63,6 @@
     font-weight: 400;
 }
 .links_clube{
-    display: block;
     text-align: center;
     align-items: center;
 }
